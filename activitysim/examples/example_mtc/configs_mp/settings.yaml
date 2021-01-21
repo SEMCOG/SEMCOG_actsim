@@ -49,8 +49,10 @@ models:
   ### mp_households step
   - school_location
   - workplace_location
+  - work_from_home
   - auto_ownership_simulate
   - free_parking
+  - telecommute_frequency
   - cdap_simulate
   - mandatory_tour_frequency
   - mandatory_tour_scheduling
